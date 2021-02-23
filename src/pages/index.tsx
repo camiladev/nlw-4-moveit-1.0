@@ -1,4 +1,5 @@
 import { ExperienceBar } from "../components/ExperienceBar";
+import { Profile } from "../components/Profile";
 
 
 export default function Home() {
@@ -8,10 +9,10 @@ export default function Home() {
 
       <section>
         <div>
-          {/* profile */}
+          <Profile />
         </div>
         <div>
-          
+
         </div>
       </section>
     </div>
