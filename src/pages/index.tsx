@@ -1,6 +1,19 @@
+import { ExperienceBar } from "../components/ExperienceBar";
+
 
 export default function Home() {
   return (
-    <h1>Ola</h1>
+    <div>
+      <ExperienceBar />
+
+      <section>
+        <div>
+          {/* profile */}
+        </div>
+        <div>
+          
+        </div>
+      </section>
+    </div>
   )
 }
