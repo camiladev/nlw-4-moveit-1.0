@@ -35,7 +35,7 @@ export function Countdown() {
             { hasFinished ? (
                 <button 
                     disabled
-                    className={`${style.countdownButton} ${style.countdownButtonCycleCompleted}`}
+                    className={style.countdownButton}
                     
                     >
                     Ciclo Encerrado <AiFillCheckCircle />

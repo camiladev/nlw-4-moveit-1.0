@@ -1,3 +1,4 @@
+import  Head  from 'next/head';
 import { GetServerSideProps } from 'next';
 
 import { ChallengeBox } from "../components/ChallengeBox";
@@ -25,7 +26,9 @@ export default function Home(props: HomeProps) {
     >
 
           <div className={styles.container}>
-            
+            <Head >
+                <title>Início | move.it</title>
+            </Head >
 
             <ExperienceBar />
 
