@@ -3,6 +3,8 @@ import { useContext } from 'react';
 import { CountdownContext } from '../contexts/CountdownContext';
 import style from '../styles/components/Countdown.module.css';
 
+import { AiOutlineCaretRight, AiOutlineClose, AiFillCheckCircle} from 'react-icons/ai'
+
 export function Countdown() {
     const { minutes, 
             seconds, 
@@ -33,10 +35,10 @@ export function Countdown() {
             { hasFinished ? (
                 <button 
                     disabled
-                    className={style.countdownButton}
+                    className={`${style.countdownButton} ${style.countdownButtonCycleCompleted}`}
                     
                     >
-                    Ciclo Encerrado
+                    Ciclo Encerrado <AiFillCheckCircle />
             </button>
             ) : (
                 <>
@@ -46,7 +48,7 @@ export function Countdown() {
                         className={`${style.countdownButton} ${style.countdownButtonActive}`}
                         onClick={resetCountdown}
                         >
-                        Abandonar ciclo
+                        Abandonar ciclo <AiOutlineClose />
                     </button>
 
                     ) : (
@@ -55,7 +57,7 @@ export function Countdown() {
                             className={style.countdownButton}
                             onClick={startCountdown}
                             >
-                            Iniciar um ciclo
+                            Iniciar um ciclo <AiOutlineCaretRight />
                         </button>
                     )}
                 </>
