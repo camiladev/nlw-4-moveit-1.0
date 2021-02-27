@@ -1,34 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Move.it 1.0
+Projeto proposto pela Rocketseat :rocket: durante a realização do Next Level Week 4º.
 
-## Getting Started
+### Informações sobre o Projeto
 
-First, run the development server:
+A ideia surgiu da necessidade de ajudar as milhares de pessoas que trabalham usando o computador a evitar futuros problemas de saúde, como:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- Tendinite;
+- Dores nas costas;
+- Má circulação nas pernas;
+- Problemas de visão.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+E ajudar a manter o foco e melhorar a produtividade de forma que não prejudique a saúde.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Para isso juntamos a técnica de gestão do tempo Pomodoro, como exercícios para o corpo e para os olhos e para dar aquela estimulada aplicamos a ideia de level que nos jogos online são usados para definir a experiência do personagem.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### Resolução
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+**Pomodoro - Técnica de gestão do tempo**
 
-## Learn More
+Para realizar o controle do tempo foi criado um componente de cronometro, que chamamos de Countdown. Com variáveis de controle de estado recebe o tempo de 25 min convertido em segundos, e quando o relógio é inicializado o tempo inicial é atualizado em um intervalo de 1 segundo, sempre diminuindo um segundo até que o contador chegue a zero.
 
-To learn more about Next.js, take a look at the following resources:
+### Tecnologias usadas
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+:construction: Em construção...
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Execução
 
-## Deploy on Vercel
+:construction: Em construção...
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Contribuição
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+:construction: Em construção...
