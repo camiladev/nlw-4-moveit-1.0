@@ -3,15 +3,15 @@ Projeto proposto pela Rocketseat :rocket: durante a realização do Next Level W
 
 **Tela Inicial**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f1b13ce9-26be-4c6a-a2f3-f69a536d1df6/Screenshot_2021-03-01_Incio_move_it.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f1b13ce9-26be-4c6a-a2f3-f69a536d1df6/Screenshot_2021-03-01_Incio_move_it.png)
+![Screenshot_2021-03-01 Início move it](https://user-images.githubusercontent.com/63053569/109548042-e8946380-7aaa-11eb-97df-9a229bc242a3.png)
 
 **Tela ciclo encerrado e novo desafio**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c733a126-b8f7-471d-b8fd-1ef8eace83a1/Screenshot_2021-03-01_Incio_move_it(1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c733a126-b8f7-471d-b8fd-1ef8eace83a1/Screenshot_2021-03-01_Incio_move_it(1).png)
+![Screenshot_2021-03-01 Início move it(1)](https://user-images.githubusercontent.com/63053569/109548131-082b8c00-7aab-11eb-94b4-ccecfa5a5bdf.png)
 
 **Tela desafio concluído e subiu de nível**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/283ba05f-89b2-4d66-b9a3-4c2368559082/Screenshot_2021-03-01_Incio_move_it(2).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/283ba05f-89b2-4d66-b9a3-4c2368559082/Screenshot_2021-03-01_Incio_move_it(2).png)
+![Screenshot_2021-03-01 Início move it(2)](https://user-images.githubusercontent.com/63053569/109548202-1c6f8900-7aab-11eb-89ef-99b53ddf09cd.png)
 
 ### :page_with_curl: Informações sobre o Projeto
 
